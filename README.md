@@ -17,15 +17,15 @@ Currently building practical projects to expand into **Salesforce Development (A
 
 ## Featured Projects 🚀
 
-### 🔹 CPQ Discount Approval Engine (Apex + LWC)
+### 🔹 CPQ Discount Approval Engine (Apex + LWC) [repo](https://github.com/niaragorn7/SF_CPQ_Engine)
+
 Custom approval system enforcing pricing rules with dynamic logic and UI for request handling.
 
-[Check it out](https://github.com/niaragorn7/SF_CPQ_Engine)
 
-### 🔹 Salesforce REST Integration (Node.js + Apex)
+### 🔹 Salesforce REST Integration (Node.js + Apex) [repo](https://github.com/niaragorn7/SF_Nodejs_REST)
+
 End-to-end integration exposing Salesforce data via Apex REST and consuming it externally using OAuth 2.0.
 
-[Check it out](https://github.com/niaragorn7/SF_Nodejs_REST)
 
 
 ##  Let’s Connect 📌
