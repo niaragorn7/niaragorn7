@@ -1,7 +1,6 @@
 ##  About Me 🦖
-# Nicolás Gómez 👨‍💻
 
-Salesforce Administrator with experience in **CPQ, automation, and system integrations** in enterprise environments. Focused on solving complex business problems through scalable solutions, with hands-on experience in **Flows, Apex, and API integrations (MuleSoft/SAP)**.
+I am Nicolás Gómez, salesforce admin with experience in **CPQ, automation, and system integrations** in enterprise environments. Focused on solving complex business problems through scalable solutions, with hands-on experience in **Flows, Apex, and API integrations (MuleSoft/SAP)**.
 
 Currently building practical projects to expand into **Salesforce Development (Apex + LWC)**, as well into backend development. 
 
