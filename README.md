@@ -1,6 +1,6 @@
 # Nicolás Gómez Aragón
 
-Salesforce Consultant | Backend Developer | Enterprise Integrations
+Salesforce Consultant | Backend Developer | Software Developer | Enterprise Integrations
 
 ## About Me 🦖
 
@@ -14,10 +14,10 @@ I enjoy working at the intersection of business processes and technology: unders
 
 ## What I Work With 🔧
 
-- Salesforce
+- Salesforce & AWS
 - Integrations & Cloud
-- Programming & Data
-- Development & Delivery
+- Data (Analytics & AI)
+- End-to-End implementation
 
 ---
 
